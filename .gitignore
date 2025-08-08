@@ -3,6 +3,7 @@
 venv/
 ENV/
 env/
+venv
 
 # Ignorar arquivos temporários do Python
 __pycache__/
