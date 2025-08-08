@@ -1,23 +1,19 @@
-# Ignorar ambientes virtuais Python
+# Ambientes virtuais
 .venv/
 venv/
-ENV/
 env/
-venv
+ENV/
 
-# Ignorar arquivos temporários do Python
+# Python cache/artefatos
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-*.pdb
 *.log
 
-# Ignorar configs locais do VS Code
+# VS Code (configs locais)
 .vscode/
 
-# Ignorar arquivos do sistema
+# Sistema
 .DS_Store
 Thumbs.db
-.venv/
-.venv/
