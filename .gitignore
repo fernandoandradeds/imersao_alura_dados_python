@@ -1,19 +1,19 @@
-# Ambientes virtuais
+# Ambientes virtuais Python
 .venv/
 venv/
-env/
 ENV/
+env/
 
-# Python cache/artefatos
+# Arquivos de cache e logs
 __pycache__/
-*.py[cod]
+*.pyc
 *.pyo
 *.pyd
-*.log
 
-# VS Code (configs locais)
+# Arquivos de configuração do editor
 .vscode/
+.idea/
 
-# Sistema
+# Arquivos de sistema
 .DS_Store
 Thumbs.db
